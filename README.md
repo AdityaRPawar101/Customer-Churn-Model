@@ -25,11 +25,6 @@ Ideal for internal analysts or customer success teams aiming to proactively inte
 
 ---
 
-<pre lang="markdown"> ## 📦 Project Structure ``` Customer-Churn-Model/ ├── app.py # Main Flask app ├── templates/ # HTML templates for web interface │ ├── index.html # Input form page │ └── result.html # Result display page ├── models/ │ ├── churn_prediction_model.pkl # Pre-trained ML model │ └── columns.json # Feature columns used by model ├── static/ # (Optional) Static files like CSS/JS └── README.md # Project documentation ``` </pre>
-
-
----
-
 ## 📝 Usage Instructions
 
 ### Requirements
